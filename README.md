@@ -1,4 +1,4 @@
-# Registration form tamplate
+# Registration form template
 Registration form that is connected to postgresql database
 
 # Tools
